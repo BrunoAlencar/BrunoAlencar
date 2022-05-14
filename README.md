@@ -8,7 +8,7 @@
 </p>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoAlencar&show_icons=true&count_private=true" alt="BrunoAlencar" />
+  <img align="center" width="416px" src="https://github-readme-stats.vercel.app/api?username=BrunoAlencar&show_icons=true&count_private=true" alt="BrunoAlencar" />
   
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlencar&langs_count=6&theme=dracula&layout=compact&card_width=360" alt="BrunoAlencar" />
