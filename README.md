@@ -42,15 +42,6 @@ Previously: **AE Studio** (Ethereum NFT marketplace for international clients), 
 - **Observability:** Grafana, Prometheus, Loki, OpsGenie
 - **Testing & Quality:** Jest, automated testing, code review
 
-### Featured Projects
-
-| Project | What it is |
-| --- | --- |
-| [poc-kafka-node-with-kafka-connector](https://github.com/BrunoAlencar/poc-kafka-node-with-kafka-connector) | Two Node.js microservices kept in sync across separate databases through Kafka and Kafka Connect |
-| [clean-node-ts-api](https://github.com/BrunoAlencar/clean-node-ts-api) | Node.js/TypeScript API following Clean Architecture and TDD, with Jest unit and integration suites |
-| [nestjs-api-challenge](https://github.com/BrunoAlencar/nestjs-api-challenge) | REST API built with NestJS and documented with Swagger |
-| [ionic3-google-maps-examples](https://github.com/BrunoAlencar/ionic3-google-maps-examples) | Google Maps JavaScript API examples in Ionic, combined with HTML5 geolocation |
-| [tools-list-front-end](https://github.com/BrunoAlencar/tools-list-front-end) | Tools directory front-end in React and Next.js with a focus on SEO |
 
 <div align="center">
 
